@@ -26,7 +26,7 @@ Features that could be added to this program are random ship boards for the comp
 file, better display interaction (i.e a single window that has the two boards and user input areas in the same location), and color to 
 the ships, misses, and hits. The program itself functions well and can identify and correct all user input mistakes, as far as I am aware 
 of, which means it could be a good base model for a better interactive battleship game.
- 
+
 TESTS: 
 
 Program can correct these User input Errors
