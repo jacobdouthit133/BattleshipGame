@@ -20,13 +20,15 @@ called “computer_gameV1”, “computer_gameV2”, “computer_gameV3”. With
 and the user just needs to follow the directions displayed on the screen. Note the user should extend the run display window to its 
 maximum size to help see the game being played.
 
-Modify/extend Program
+Modify/extend Program:
+
 Features that could be added to this program are random ship boards for the computer, which could be created from reading an input 
 file, better display interaction (i.e a single window that has the two boards and user input areas in the same location), and color to 
 the ships, misses, and hits. The program itself functions well and can identify and correct all user input mistakes, as far as I am aware 
 of, which means it could be a good base model for a better interactive battleship game.
  
 TESTS: 
+
 Program can correct these User input Errors
 1)	User inputs an incorrect coordinate location like
 a.	a0, j11, 122, 9b, j0, k1, p11, p, a, etc.
